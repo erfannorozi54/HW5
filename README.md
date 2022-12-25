@@ -168,7 +168,7 @@ title="plot" width="500" align="middle" />
 
 
 # **Finally**
-Please do not alter other files already populated except otherwise indicated. only write your code in `src/oneline_funcs.py` and `src/daemon_figure.py` files.
+Please do not alter other files already populated except otherwise indicated. only write your code in `src/shape.py` and `src/daemon_figure.py` files.
 
 </br>
 
